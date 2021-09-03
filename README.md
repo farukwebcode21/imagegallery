@@ -1,3 +1,3 @@
 # imagegallery
 Live Link
-https://farukwebcode21.github.io/imagegallery/
+<h1><a href="https://farukwebcode21.github.io/imagegallery/">Live</a></h1>
